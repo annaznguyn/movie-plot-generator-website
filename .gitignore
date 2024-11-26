@@ -1,0 +1,4 @@
+node_modules/
+/narrative/.gradle
+/narrative/build
+/backend/src/main/resources/data.sql
